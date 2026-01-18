@@ -56,6 +56,10 @@ Routing is the label given to the process of data travelling across networks. Ro
 
 Routing is useful when devices are connected by many paths, such as in the example diagram below.
 
+![router](images/router.png)
+
+
+
 
 
 
