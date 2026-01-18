@@ -20,3 +20,9 @@ Take the diagram below as an example, Alice, Bob and Jim have formed their netwo
 ![network_schema](images/network.png)
 
 Networks come in all shapes and sizes, which is something that we will also come on to discuss throughout this module
+
+# Solutions
+
+What is the key term for devices that are connected together?
+
+
