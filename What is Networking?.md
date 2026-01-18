@@ -25,4 +25,6 @@ Networks come in all shapes and sizes, which is something that we will also come
 
 What is the key term for devices that are connected together?
 
+![answer1](images/answer1.png)
+
 
